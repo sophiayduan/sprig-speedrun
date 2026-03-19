@@ -5,10 +5,6 @@ Description: "Basically a sprig but with the bare rp2040 and ressembling a gameb
 Created On: "21/8/2025"
 ---
 
-~~Total time: 33.5h~~
-
-> edit: upon realizing i have 34h tracked on hackatime, then 33.5h for sure isn't my total time. I'd estimate 40h at the minimum then, but (hi reviewer!) i'd understand if you need to reduce some. 
-
 
 ### Estimated total time: 40h.
 
@@ -68,7 +64,7 @@ Lots of progress made:
 - followed the rp2040 hardware design guide for the pours under the mcu
 - added additional gpio pin headers
 
-<img width="800px" src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/3da0cb02b2cf8298a052557a562a2c04a3dd823a_1.png">
+<img width="600px" src="https://cdn.hackclub.com/019d0635-748f-7550-aca5-015b2ef218e1/fffff.png">
 (i realize the angle is weird)
 
 # September 17th:
