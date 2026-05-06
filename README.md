@@ -1,7 +1,7 @@
-# Daydream-Sprig
+# Sprig-Speedrun
 > Currently working on cleaning this up to get it manufactured (2026-04-06)
 
-#### The Daydream-Sprig is a version of the [Sprig](https://github.com/hackclub/sprig) using the bare RP2040 chip and in a vertical handheld formfactor.
+#### The Sprig-Speedrun is a limited edition version of the [Sprig](https://github.com/hackclub/sprig) using the bare RP2040 chip and in a vertical handheld formfactor.
 
 
 <img height="500" alt="image" src="https://github.com/user-attachments/assets/3c467840-dddc-4ac7-85d8-434b70204488" />
