@@ -4,8 +4,8 @@
 #### The Sprig-Speedrun is a limited edition version of the [Sprig](https://github.com/hackclub/sprig) using the bare RP2040 chip and in a vertical handheld formfactor.
 
 
-<img height="700" alt="image" src="https://github.com/user-attachments/assets/85129bd6-3263-4def-a76c-1d766be6eacb" />
-<img height="700" alt="image" src="https://github.com/user-attachments/assets/a64ad2af-c539-4a9c-aa3e-204e5dc99c4c" />
+<img height="500" alt="image" src="https://github.com/user-attachments/assets/85129bd6-3263-4def-a76c-1d766be6eacb" />
+<img height="500" alt="image" src="https://github.com/user-attachments/assets/a64ad2af-c539-4a9c-aa3e-204e5dc99c4c" />
 
 
 
